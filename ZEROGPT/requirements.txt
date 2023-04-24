@@ -3,3 +3,4 @@ gradio==3.16.2
 uvicorn==0.20.0
 scipy
 gunicorn==20.0.4
+Flask==1.1.2
