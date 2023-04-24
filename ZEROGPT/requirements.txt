@@ -1,0 +1,5 @@
+transformers==4.26.0
+gradio==3.16.2
+uvicorn==0.20.0
+scipy
+gunicorn==20.0.4
