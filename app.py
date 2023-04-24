@@ -21,4 +21,4 @@ def predict():
     return render_template('index.html',out=out)
 
 if __name__== '__main__':
-    app.run(debug=True,use_reloader=False,port=0000)
+    app.run(debug=True)
