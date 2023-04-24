@@ -4,3 +4,4 @@ uvicorn==0.20.0
 scipy
 gunicorn==20.0.4
 Flask==1.1.2
+Werkzeug==0.16.1
